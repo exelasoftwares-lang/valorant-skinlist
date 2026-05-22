@@ -1,0 +1,2 @@
+# valorant-skinlist
+skinlist
